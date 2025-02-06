@@ -1,52 +1,36 @@
+# Simple Timer
+```markdown
+Here’s an example of a simple timer using HTML and JavaScript:
+
+```html
 <!DOCTYPE html>
 <html lang="en">
-- 👋 Hi, I’m @chickenrice1
-- 👀 I’m interested in guitar and coding, although im not very good at coding.
-- 🌱 I’m currently learning russian and spanish!
-- 💞️ I’m looking to collaborate on... right here! mention me and we can work on a game together.
-- 📫 How to reach me no email just here on github :)
-- 😄 Pronouns: im a microwave, my pronouns are brrrrrrr/beeep beeepbeeep (he/him)
-- ⚡ Fun fact: idk get to know me outside of here and im a pretty cool guy :]
-
-<!---
-chickenrice1/chickenrice1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Number Guessing Game</title>
+    <title>Simple Timer</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; margin-top: 50px; }
+        #timer { font-size: 3em; margin-bottom: 20px; }
+        button { margin: 5px; padding: 10px 20px; font-size: 1em; }
+    </style>
 </head>
 <body>
-    <h1>Number Guessing Game</h1>
-    <p>I've picked a number between 1 and 100. Can you guess it?</p>
-    
-    <input type="number" id="guessInput" placeholder="Enter your guess">
-    <button onclick="checkGuess()">Guess</button>
-    
-    <p id="result"></p>
-    
+    <div id="timer">00:00:00</div>
+    <button onclick="startTimer()">Start</button>
+    <button onclick="stopTimer()">Stop</button>
+    <button onclick="resetTimer()">Reset</button>
     <script>
-        const numberToGuess = Math.floor(Math.random() * 100) + 1;
-        let attempts = 0;
+        let timer, h = 0, m = 0, s = 0, running = false;
+        const updateDisplay = () => document.getElementById('timer').textContent = 
+            `${h < 10 ? "0" : ""}${h}:${m < 10 ? "0" : ""}${m}:${s < 10 ? "0" : ""}${s}`;
 
-        function checkGuess() {
-            const guess = Number(document.getElementById("guessInput").value);
-            attempts++;
+        const updateTimer = () => { if (++s === 60) { s = 0; if (++m === 60) { m = 0; h++; } } updateDisplay(); }
+        const startTimer = () => { if (!running) running = true, timer = setInterval(updateTimer, 1000); }
+        const stopTimer = () => { running = false; clearInterval(timer); }
+        const resetTimer = () => { running = false; clearInterval(timer); h = m = s = 0; updateDisplay(); }
 
-            let resultMessage = "";
-
-            if (guess < numberToGuess) {
-                resultMessage = "Too low! Try again.";
-            } else if (guess > numberToGuess) {
-                resultMessage = "Too high! Try again.";
-            } else {
-                resultMessage = `Congratulations! You've guessed the number in ${attempts} attempts.`;
-            }
-
-            document.getElementById("result").innerText = resultMessage;
-        }
+        window.onload = startTimer;
     </script>
 </body>
-</html>
+</html> 
