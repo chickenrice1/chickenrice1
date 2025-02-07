@@ -11,6 +11,8 @@ yeah so im still getting back into the tie of coding, its been a while. before i
 
 
 ![image](https://github.com/user-attachments/assets/bebcfa58-bd76-43aa-84ef-8fd83b728c4e)
+![image](https://github.com/user-attachments/assets/67f1d722-44fa-4454-ada1-615a3a6cac32)
+
 
 
 [updated weekly {next udate 2.10.25}]
