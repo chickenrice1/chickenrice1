@@ -1,20 +1,22 @@
-![image](https://github.com/user-attachments/assets/1b667fd3-224e-41b8-afd9-4ceb2d6eae4c)![image](https://github.com/user-attachments/assets/77e10af4-6141-4d02-b6db-705a630177ff)
 
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 <br>
-yeah so im still getting back into the tie of coding, its been a while. before i took this code hibernation, i was atcualy pretty good at it. using github is still pretty new to me, even after using it for 4 years, over the span of 5 different accounts. I can't make games or legit programs, but  can make little websites! they arent very good, but i can make chickenrice cafe menu sometime in feburary. pretty soon, i will be working on a proxy hosted off a raspberry-pi {eta: 6 years} after getting familiar with raspberry and getting an atcual job.
+yeah so im still getting back into the tie of coding, its been a while. before i took this code hibernation, i was atcualy pretty good at it. using github is still pretty new to me, even after using it for 4 years, over the span of 5 different accounts. I can't make games or legit programs, but  can make little websites! they arent very good, but i can make chickenrice cafe menu sometime in feburary. pretty soon, i will be working on a proxy hosted off a raspberry-pi {eta: 6 years} after getting familiar with raspberry and getting an atcual job. Im a part-time skiier (mostly winter skiier) and can do some pretty cool things. I like to go to White Pass ski resort, even though the drive makes me age 120 years. I dont snowboard much, but I kinda enjoy it. More skiier though. Im also a pretty big ports person, I love running, biking, and snow sports. I crash real hard skiing and biking, and slip into mud whie running. I pretty good at al of them, trying to keep this as short as possible, im pretty athletic. visit my site <a href="https://sites.google.com/ksd.org/chickenrice/home" alt="here">here!</a>
 <br>
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/bebcfa58-bd76-43aa-84ef-8fd83b728c4e)
-![image](https://github.com/user-attachments/assets/67f1d722-44fa-4454-ada1-615a3a6cac32)
-
-
-
-[updated weekly {next udate 2.10.25}]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 <br>
-![image](https://github.com/user-attachments/assets/b9093b51-0be1-4174-9884-f1328ef879d4)![image](https://github.com/user-attachments/assets/d7e03c6c-aa08-47bc-bd49-a446b8caa1c9)
+Favourite song: <a href="https://youtu.be/wJGcwEv7838" alt="good song tbh">Look at me!-XXXTENTACION</a>
+<br>
+
+
+
+
+![image](https://github.com/user-attachments/assets/d3b05b14-f537-4dbd-b14f-429f463b9859)
+![image](https://github.com/user-attachments/assets/e2d20e56-b01d-40ac-9ce7-46cf7fc97a38)
+
+
+
+
+[updated weekly {next udate 2.17.25}]
+<br>
