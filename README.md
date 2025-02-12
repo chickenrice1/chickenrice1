@@ -6,7 +6,7 @@ yeah so im still getting back into the tie of coding, for its been a while. befo
 <br>
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 <br>
-Favourite song: <a href="https://youtu.be/wJGcwEv7838" alt="good song tbh">Look at me!-XXXTENTACION</a>
+Favourite song: <a href="https://youtu.be/wJGcwEv7838" alt="good song tbh" target="_blank">Look at me!-XXXTENTACION</a>
 <br>
 
 
