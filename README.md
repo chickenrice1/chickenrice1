@@ -6,19 +6,20 @@ yeah so im still getting back into the tie of coding, for its been a while. befo
 <br>
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 <br>
-Favourite song: <a href="https://youtu.be/wJGcwEv7838" alt="good song tbh" target="_blank">Look at me!-XXXTENTACION</a>
+Favourite song: <a href="https://youtu.be/H_N1EY-ILOA" alt="good song tbh" target="_blank">WRONG PLACE - Faceless 1-7</a>
 <br>
 
 
 
 
-![image](https://github.com/user-attachments/assets/d3b05b14-f537-4dbd-b14f-429f463b9859)
-![image](https://github.com/user-attachments/assets/e2d20e56-b01d-40ac-9ce7-46cf7fc97a38)
+![image](https://github.com/user-attachments/assets/645f7605-5b01-430f-9eb3-24fb9932b0e4)
+![image](https://github.com/user-attachments/assets/721e1af4-772b-403f-b55e-00ea3ed7b989)
 
 
 
 
-## [updated weekly {next udate 2.17.25}]
+
+## [updated weekly {next udate 2.24.25}]
 <br>
 
 ## licenses
