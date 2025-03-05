@@ -8,18 +8,21 @@ yeah so im still getting back into the tie of coding, for its been a while. befo
 <br>
 Favourite song: <a href="https://youtu.be/H_N1EY-ILOA" alt="good song tbh" target="_blank">WRONG PLACE - Faceless 1-7</a>
 <br>
+<br>
+### sorry guys i have been busy lately so i havent been on top of my code and all that. I will update some of my repositories and stuff like that and uhh... yeah thats about it.
+<br>
 
 
 
 
-![image](https://github.com/user-attachments/assets/645f7605-5b01-430f-9eb3-24fb9932b0e4)
-![image](https://github.com/user-attachments/assets/721e1af4-772b-403f-b55e-00ea3ed7b989)
+![image](https://github.com/user-attachments/assets/c141ef40-e0ac-4fe3-b2e2-2c51d6924bcc)
+![image](https://github.com/user-attachments/assets/97431945-a13e-4dcc-994c-790c34963924)
 
 
 
 
 
-## [updated weekly {next udate 2.24.25}]
+## [updated weekly {next udate 3.10.25}]
 <br>
 
 ## licenses
