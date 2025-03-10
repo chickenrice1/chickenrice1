@@ -6,23 +6,25 @@ yeah so im still getting back into the tie of coding, for its been a while. befo
 <br>
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 <br>
-Favourite song: <a href="https://youtu.be/H_N1EY-ILOA" alt="good song tbh" target="_blank">WRONG PLACE - Faceless 1-7</a>
+Favourite song: <a href="https://youtu.be/H_N1EY-ILOA" alt="good song tbh" target="_blank"><strong>WRONG PLACE</strong> - Faceless 1-7</a>
 <br>
 <br>
 ### sorry guys i have been busy lately so i havent been on top of my code and all that. I will update some of my repositories and stuff like that and uhh... yeah thats about it.
 <br>
+<em>Currently working on <strong>nothing</strong></em>
 
 
 
 
-![image](https://github.com/user-attachments/assets/c141ef40-e0ac-4fe3-b2e2-2c51d6924bcc)
-![image](https://github.com/user-attachments/assets/97431945-a13e-4dcc-994c-790c34963924)
+![image](https://github.com/user-attachments/assets/34e53eee-3d59-4af5-88a0-755eb59ad5dd)
+![image](https://github.com/user-attachments/assets/0ea5a012-1a90-4fe2-b632-c76aaa7223ef)
 
 
 
 
 
-## [updated weekly {next udate 3.10.25}]
+
+## [updated weekly {next udate 3.17.25}]
 <br>
 
 ## licenses
@@ -38,4 +40,7 @@ please dont contact me about marketing, money, or advertising me or a product. I
 ## proxies and web blockers
 if there is a repository that is a proxy or web blocker, <strong> please, please, please</strong> dont yell at me about it. it is most likely a fork from someone else that i thought was cool and added. if it doesnt work, dont yell at me. see who is was forked by, then yell at them. web blockers, more specifically ad blockers and vpn, probably wont work, since I have no way to test them. if they do work however, send me an email and a link to it and I will label it as working. if it doesnt work, then I will label it as
 <strong>[WORKING-tested}</strong>. it will <em>mostly</em> be for me, just so i dont accidentally change the code or delete it or aything.
+
+## disclamers
+if something does not work, PLEASE do not spam me telling me that it doesnt work, just make an issue and mark it as not working. I tend to get to those faster than other tags.
 
