@@ -6,25 +6,27 @@ yeah so im still getting back into the tie of coding, for its been a while. befo
 <br>
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 <br>
-Favourite song: <a href="https://youtu.be/H_N1EY-ILOA" alt="good song tbh" target="_blank"><strong>WRONG PLACE</strong> - Faceless 1-7</a>
+Favourite song: <a href="https://youtu.be/gAmnE44582E" alt="good song tbh" target="_blank"><strong>Falling Down</strong> - Lil Peep & XXXTENTACION</a>
 <br>
 <br>
 ### sorry guys i have been busy lately so i havent been on top of my code and all that. I will update some of my repositories and stuff like that and uhh... yeah thats about it.
 <br>
-<em>Currently working on <strong>nothing</strong></em>
+<em>Currently working on <strong>a childrens book</strong></em>
 
 
 
 
-![image](https://github.com/user-attachments/assets/34e53eee-3d59-4af5-88a0-755eb59ad5dd)
-![image](https://github.com/user-attachments/assets/0ea5a012-1a90-4fe2-b632-c76aaa7223ef)
+![image](https://github.com/user-attachments/assets/d7a5713d-8a83-4944-9c1c-55ca41bbc6b2)
+
+![image](https://github.com/user-attachments/assets/1044956a-f985-472a-ae7b-b2e8668ef031)
 
 
 
 
 
 
-## [updated weekly {next udate 3.17.25}]
+
+## [updated biweekly {next udate 3.31.25}]
 <br>
 
 ## licenses
