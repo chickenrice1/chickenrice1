@@ -13,6 +13,7 @@ Favourite song: <a href="https://youtu.be/xmyZHot0Lqc" alt="good song tbh" targe
 <br>
 <em>Currently working on: <strong>nothing</strong></em>
 <br>
+
 ## weekly picture
 
 ![image](https://github.com/user-attachments/assets/46b39acb-f325-4002-93bf-3f9b66f2f53e)
