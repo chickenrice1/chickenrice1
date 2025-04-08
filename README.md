@@ -11,9 +11,9 @@ Favourite song: <a href="https://youtu.be/xmyZHot0Lqc" alt="good song tbh" targe
 <br>
 ### sorry guys i have been busy lately so i havent been on top of my code and all that. I will update some of my repositories and stuff like that and uhh... yeah thats about it.
 <br>
-<em>Currently working on <strong>a childrens book</strong></em>
+<em>Currently working on: <strong>nothing</strong></em>
 <br>
-##weekly picture
+## weekly picture
 
 ![image](https://github.com/user-attachments/assets/46b39acb-f325-4002-93bf-3f9b66f2f53e)
 
