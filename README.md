@@ -6,10 +6,10 @@ yeah so im still getting back into the tie of coding, for its been a while. befo
 <br>
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 <br>
-Favourite song: <a href="https://youtu.be/xmyZHot0Lqc" alt="good song tbh" target="_blank"><strong>THE THIN GREY LINE</strong> - $UICIDEBOY$</a>
+Favourite song: <a href="https://youtu.be/xmyZHot0Lqc" target="_blank"><strong>THE THIN GREY LINE</strong> - $UICIDEBOY$</a>
 <br>
 <br>
-### sorry guys i have been busy lately so i havent been on top of my code and all that. I will update some of my repositories and stuff like that and uhh... yeah thats about it.
+here is my company @EchoBit44
 <br>
 <em>Currently working on: <strong>nothing</strong></em>
 <br>
