@@ -6,17 +6,17 @@ yeah so im still getting back into the tie of coding, for its been a while. befo
 <br>
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 <br>
-Favourite song: <a href="https://youtu.be/xmyZHot0Lqc" alt="good song tbh" target="_blank"><strong>THE THIN GREY LINE</strong> - $UICIDEBOY$</a>
+Favourite song: <a href="https://youtu.be/ngJgUm5ptgs" alt="good song tbh" target="_blank"><strong>paranoia agent</strong> - Savage Ga$p</a>
 <br>
 <br>
 ### sorry guys i have been busy lately so i havent been on top of my code and all that. I will update some of my repositories and stuff like that and uhh... yeah thats about it.
 <br>
-<em>Currently working on: <strong>nothing</strong></em>
+<em>Currently working on: <strong>test retake.. quadratics :(</strong></em>
 <br>
 
 ## weekly picture
 
-![image](https://github.com/user-attachments/assets/46b39acb-f325-4002-93bf-3f9b66f2f53e)
+(https://github.com/user-attachments/assets/2ca06dc7-4c60-49a4-9c68-91b249bea65b)
 
 
 
@@ -30,7 +30,7 @@ Favourite song: <a href="https://youtu.be/xmyZHot0Lqc" alt="good song tbh" targe
 
 
 
-## [updated biweekly {next udate 4.21.25}]
+## [updated biweekly {next udate 4.28.25}]
 <br>
 
 ## licenses
