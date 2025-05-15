@@ -9,16 +9,14 @@ yeah so im still getting back into the tie of coding, for its been a while. befo
 Favourite song: <a href="https://youtu.be/ngJgUm5ptgs" alt="good song tbh" target="_blank"><strong>paranoia agent</strong> - Savage Ga$p</a>
 <br>
 <br>
-### sorry guys i have been busy lately so i havent been on top of my code and all that. I will update some of my repositories and stuff like that and uhh... yeah thats about it.
+## i swear i hibernated for 3 weeks
 <br>
 <em>Currently working on: <strong>test retake.. quadratics :(</strong></em>
 <br>
 
-## weekly picture
+## weekly image
 
-(https://github.com/user-attachments/assets/2ca06dc7-4c60-49a4-9c68-91b249bea65b)
-
-
+<img src="https://my.microsoftpersonalcontent.com/_api/v2.1/drives/4DA263CD0CB4A087/items/4DA263CD0CB4A087!sa9c14c624c384864b36505603c022785/thumbnails/0/c786x960/content?prefer=noredirect%2Cclosestavailablesize&amp;cb=%22c%3A%7BA9C14C62-4C38-4864-B365-05603C022785%7D%2C3%22&amp;eh=Scenario%3ABrowsePhoto&amp;it=originalScale%3Ac513x625%2CdownloadScale%3Ac786x960%2Cmigrated%3Atrue%2CscenarioName%3ArenderPhoto" alt="FB_IMG_1716355584724.jpg"/>![image](https://github.com/user-attachments/assets/a02a416a-b5ee-42f8-8abe-f12be80dc6ef)
 
 
 
@@ -30,7 +28,10 @@ Favourite song: <a href="https://youtu.be/ngJgUm5ptgs" alt="good song tbh" targe
 
 
 
-## [updated biweekly {next udate 4.28.25}]
+
+
+
+## [updated biweekly {next udate 5.25.25}]
 <br>
 
 ## licenses
